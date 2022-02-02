@@ -1,0 +1,20 @@
+{
+  "cliente": [
+    {
+      "id": 1,
+      "nome": "Rozeli",
+      "email": "rozelolis@gmail.com",
+      "nascimento": "1962-09-24",
+      "profissao": "Suporte ao Cliente",
+      "observacao": ""
+    },
+    {
+      "id": 2,
+      "nome": "Eduardo",
+      "email": "dudulira@gmail.com",
+      "nascimento": "1961-03-20",
+      "profissao": "SDR",
+      "observacao": "ausente"
+    }
+  ]
+}
